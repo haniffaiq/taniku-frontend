@@ -1,0 +1,11 @@
+{
+  "name": "taniku",
+  "version": "1.0.0",
+  "description": "marketplace untuk para petani",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "haniffaiq",
+  "license": "ISC"
+}
